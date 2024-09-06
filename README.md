@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Smyan Seth</h1>
 <h3 align="center">A high school student and an aspiring Software Engineer 👨🏻‍💻</h3>
 
-<p align="left"> <a href="https://twitter.com/smyanseth" target="blank"><img src="https://img.shields.io/twitter/follow/smyanseth?logo=twitter&style=for-the-badge" alt="smyanseth" /></a> </p>
-
 - 🔭 I’m currently working on [My personal website](https://smyan-seth.github.io/about/)
 
 - 🌱 I’m currently learning **Python, HTML**
